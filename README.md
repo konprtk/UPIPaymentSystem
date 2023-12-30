@@ -10,7 +10,6 @@ Welcome to the UPI Payment System project! This Java-based UPI (Unified Payments
 4. [Usage](#usage)
 5. [Exception Handling](#exception-handling)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Overview
 
